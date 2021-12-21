@@ -7,7 +7,7 @@ Customizable tool for getting data in forms.
 2. Creator for forms
 3. Data viewer
 
-##Declepment phases
+## Development phases
 1. Sampel prototype
 2. Form creator
 4. Distribution system
